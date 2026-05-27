@@ -1,5 +1,5 @@
 # 🌊 Welcome to the Fluent AI InnerSource Community
-Welcome to the central hub for AI collaboration at Valsoft's Fluent Group.
+## Welcome to the central hub for AI collaboration at Valsoft's Fluent Group.
 
 As we scale our AI capabilities across the portfolio, this organization serves as our internal "open source" community. This is a dedicated space for developers, engineers, and product teams to share AI learnings, showcase projects that are driving real value, and collaborate on shared architecture so we don't have to reinvent the wheel.
 
